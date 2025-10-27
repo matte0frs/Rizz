@@ -525,14 +525,14 @@
             <!-- Ceinture 1 -->
             <div class="product-card fade-in">
                 <div class="product-image">
-                    <span class="product-badge">New</span>
+                    <span class="product-badge">hot</span>
                     ⛓️
                 </div>
                 <div class="product-info">
-                    <h3 class="product-name">Ceinture Chrome Chain</h3>
-                    <p class="product-desc">Ceinture métallique avec chaînes chromées, style urbain premium</p>
-                    <div class="product-price">89€</div>
-                    <button class="add-to-cart" onclick="addToCart('Chrome Chain', 89)">Ajouter au Panier</button>
+                    <h3 class="product-name">Chrome ceinture clip classic</h3>
+                    <p class="product-desc">Ceinture avec une fermuture clip chromée, style urbain premium</p>
+                    <div class="product-price">45€</div>
+                    <button class="add-to-cart" onclick="addToCart('Chrome classic', 89)">Ajouter au Panier</button>
                 </div>
             </div>
 
@@ -542,24 +542,24 @@
                     🔗
                 </div>
                 <div class="product-info">
-                    <h3 class="product-name">Ceinture Metal Link</h3>
-                    <p class="product-desc">Design minimaliste en acier inoxydable, finition mate</p>
-                    <div class="product-price">79€</div>
-                    <button class="add-to-cart" onclick="addToCart('Metal Link', 79)">Ajouter au Panier</button>
+                    <h3 class="product-name">Ceinture Metal premium</h3>
+                    <p class="product-desc">Design minimaliste en acier inoxydable, finition mate et matériaux de qualités premium</p>
+                    <div class="product-price">60€</div>
+                    <button class="add-to-cart" onclick="addToCart('Metal minim', 60)">Ajouter au Panier</button>
                 </div>
             </div>
 
             <!-- Ceinture 3 -->
             <div class="product-card fade-in">
                 <div class="product-image">
-                    <span class="product-badge">Édition Limitée</span>
+                    <span class="product-badge">coup de coeur</span>
                     ✨
                 </div>
                 <div class="product-info">
-                    <h3 class="product-name">Ceinture Platinum Edge</h3>
-                    <p class="product-desc">Édition limitée, boucle signature RIZZ plaquée argent</p>
-                    <div class="product-price">129€</div>
-                    <button class="add-to-cart" onclick="addToCart('Platinum Edge', 129)">Ajouter au Panier</button>
+                    <h3 class="product-name">Ceinture simple logo</h3>
+                    <p class="product-desc">passera dans tout vos outfit, boucle simple et logo sur la ceinture</p>
+                    <div class="product-price">45€</div>
+                    <button class="add-to-cart" onclick="addToCart('Platinum Edge', 45)">Ajouter au Panier</button>
                 </div>
             </div>
 
@@ -571,8 +571,8 @@
                 <div class="product-info">
                     <h3 class="product-name">Casquette Logo Chrome</h3>
                     <p class="product-desc">Casquette snapback avec logo RIZZ brodé en fil métallique</p>
-                    <div class="product-price">45€</div>
-                    <button class="add-to-cart" onclick="addToCart('Casquette Chrome', 45)">Ajouter au Panier</button>
+                    <div class="product-price">30€</div>
+                    <button class="add-to-cart" onclick="addToCart('Casquette Chrome', 30)">Ajouter au Panier</button>
                 </div>
             </div>
 
@@ -582,10 +582,10 @@
                     👜
                 </div>
                 <div class="product-info">
-                    <h3 class="product-name">Sac Crossbody Urban</h3>
-                    <p class="product-desc">Petit sac bandoulière en nylon résistant, détails chromés</p>
-                    <div class="product-price">69€</div>
-                    <button class="add-to-cart" onclick="addToCart('Sac Urban', 69)">Ajouter au Panier</button>
+                    <h3 class="product-name">tshirt basic</h3>
+                    <p class="product-desc">tshirt essential, coupe parfaite, détails chromés</p>
+                    <div class="product-price">30€</div>
+                    <button class="add-to-cart" onclick="addToCart('tshirt', 30)">Ajouter au Panier</button>
                 </div>
             </div>
 
@@ -595,10 +595,10 @@
                     🧤
                 </div>
                 <div class="product-info">
-                    <h3 class="product-name">Gants Tech Touch</h3>
-                    <p class="product-desc">Gants tactiles en cuir synthétique, logo RIZZ gravé</p>
-                    <div class="product-price">39€</div>
-                    <button class="add-to-cart" onclick="addToCart('Gants Tech', 39)">Ajouter au Panier</button>
+                    <h3 class="product-name">port-clef RIZZ</h3>
+                    <p class="product-desc">magnifique port-clef chromé de notre logo</p>
+                    <div class="product-price">17€</div>
+                    <button class="add-to-cart" onclick="addToCart('keychan', 17)">Ajouter au Panier</button>
                 </div>
             </div>
         </div>
@@ -633,7 +633,7 @@
             <div class="footer-section">
                 <h3>RIZZ</h3>
                 <p>Streetwear Premium</p>
-                <p>Paris, France</p>
+                <p>Bruxelles, BELGIQUE</p>
                 <div class="social-links">
                     <a href="#">📷</a>
                     <a href="#">📘</a>
@@ -656,9 +656,8 @@
             </div>
             <div class="footer-section">
                 <h3>Contact</h3>
-                <p>contact@rizz-wear.com</p>
-                <p>+33 1 23 45 67 89</p>
-                <p>Lun-Ven: 9h-18h</p>
+                <p>Rizzpremium@gmail.com</p>
+                <p>24/7 online</p>
             </div>
         </div>
         <div class="copyright">
